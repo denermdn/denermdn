@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a gamification to teach physics
-- 🌱 I’m currently learning Web development (JS, CSS, HTML)
+- 🖥️ I’m currently working on a gamification to teach physics
+- 🤔 I’m currently learning Web development (JS, CSS, HTML)
 - 💬 Contact mail - denerloizzs@gmail.com
 <div>
   <a href="https://github.com/deyvisongdias" > 
