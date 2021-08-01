@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
    <div>
-     <a href="https://www.instagram.com/deyvison_dias_/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
+     <a href="https://www.instagram.com/denermdn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
       <a href="https://www.twitch.tv/denermdn1"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blanck"></a>
   </div>
  
